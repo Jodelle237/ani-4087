@@ -7,6 +7,7 @@
 Chaque fonction doit retourner un vecteur unitaire, c’est-à-dire un vecteur dont la longueur vaut 1.
 
 2. Ce que le programme doit faire
+
 il doit :
 
 1. Lit trois nombres réels : x, y et z.
