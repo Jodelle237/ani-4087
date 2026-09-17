@@ -1,5 +1,4 @@
-Moi: Mes yeux étaient troublés par rapport à l'écran et la route 
+Moi: J’ai regardé pendant deux minutes, en plein écran et de très près, une vidéo filmée avec une caméra portée à la main pendant une marche rapide. Au début j’ai trouvé le mouvement assez naturel, mais les secousses de la caméra m’ont rapidement gênée. J’ai ressenti une légère fatigue visuelle et une impression de désorientation À certains moments j’avais l’impression que mon corps était immobile alors que mes yeux percevaient beaucoup de mouvements Après la vidéo j’ai ressenti un léger inconfort mais il a disparu rapidement
+Sandra: J’ai regardé la vidéo pendant deux minutes sur un écran ordinaire en plein écran et de très près. Les secousses de la caméra m’ont donné une impression de mouvement permanent J’ai ressenti une légère perte de repères et un inconfort visuel surtout pendant les passages où la caméra avançait rapidement Je n’ai pas ressenti de nausée mais j’ai préféré détourner les yeux à la fin Cette expérience m’a fait comprendre comment des mouvements visuels importants peuvent provoquer un malaise même sans être dans un casque de réalité virtuelle
 
-Sandra: elle a eu les vertiges
-
-Serge: ces yeux ont commencé à lui faire mal comme s'il était sur l'écran depuis des heures 
+Serge: Pendant le visionnage j’ai surtout remarqué les mouvements brusques et les changements rapides de direction de la caméra Cela m’a donné une petite sensation de vertige surtout lorsque l’image bougeait beaucoup. Je n’ai pas eu de nausée mais j’ai ressenti une gêne au niveau des yeux et une légère fatigue. L’expérience était moins agréable qu’une vidéo stable Après avoir arrêté la vidéo je me suis sentie normalement au bout de quelques instants
