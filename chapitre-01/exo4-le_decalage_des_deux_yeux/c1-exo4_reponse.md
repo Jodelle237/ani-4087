@@ -1,8 +1,8 @@
 Mesures du déplacement apparent du doigt :
 
-* À 30 cm : … cm
-* À 1 m : … cm
-* À 3 m : … cm
+* À 30 cm : 6,5cm
+* À 1 m : 3 cm
+* À 3 m : je n'ai rien remarqué 
 
 Interprétation :
 
